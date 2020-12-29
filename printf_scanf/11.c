@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("This is added from Local repository");
+    
     int n=3,sum=0;
     do
     {
